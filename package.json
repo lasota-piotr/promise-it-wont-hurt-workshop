@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "es6-promise": "^4.1.0",
     "promise-it-wont-hurt": "^1.0.0-alpha.2"
   }
 }
